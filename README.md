@@ -42,3 +42,18 @@ Commercial use requires permission.
 ---
 
 Make your walls work for you.
+
+---
+
+## Repository structure
+
+Printable STL files are organized by system size:
+
+- **FPG-Mini** – compact system for small spaces and light to medium loads  
+- **FPG-Midi** – medium-sized system (planned)  
+- **FPG-Maxi** – large and heavy-duty system (planned)
+
+Each size contains its own folders for grid parts, spacers, caps and adapters.
+
+If you are new to GitHub:  
+Simply open the folder matching your system size and download the STL files you need.
