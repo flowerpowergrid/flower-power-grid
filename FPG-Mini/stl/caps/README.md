@@ -14,14 +14,38 @@ In addition to their structural role, caps create a clean and consistent visual 
 
 ### Cap variants
 
-There are two types of caps.  
-Both variants share the same dimensions and fulfill the same structural purpose.
+Several cap variants are available.  
+All variants share the same basic dimensions and fulfill the same structural purpose, while addressing different positions within the grid layout.
 
-- **Closed cap**  
-  Covers the grid node completely and is used where no access to the mounting screw is required.
+---
 
-- **Open cap (with center hole)**  
-  Allows access to the mounting screw without removing the cap.  
-  This variant is particularly suited for applications where the system is mounted and dismounted frequently, such as trade shows, exhibition spaces or temporary installations.
+### Closed Cap
 
-The open cap visually covers the grid node while enabling faster installation and removal of the entire system.
+The Closed Cap fully covers the grid node and is used where no access to the mounting screw is required.
+
+---
+
+### Open Cap (with center hole)
+
+The Open Cap allows access to the mounting screw without removing the cap.  
+This variant is particularly suited for applications where the system is mounted and dismounted frequently, such as trade shows, exhibition spaces or temporary installations.
+
+It visually covers the grid node while enabling faster installation and removal of the entire system.
+
+---
+
+### Half Cap
+
+The Half Cap is a reduced version of the standard cap.
+
+It is used at the top and bottom edges of the grid to create a clean and intentional vertical finish.  
+When frames are installed on the left and right sides of the grid to form a rectangular outer shape, the Half Cap completes the system at the remaining open edges.
+
+---
+
+### Corner Cap
+
+The Corner Cap is designed for the four outer corner positions of the rectangular grid layout created by frame installation.
+
+It is used in combination with frames and provides a clean and defined finish where horizontal and vertical edges meet.  
+The Corner Cap completes the rectangular outer structure of the system, independent of the exact internal grid geometry.
