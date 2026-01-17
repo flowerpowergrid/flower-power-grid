@@ -13,11 +13,15 @@ Parts will be released gradually as they are finalized and tested.
 
 ---
 
-## What is included (currently)
+## Development approach
 
-- FPG Mini – Mounting Spacer
+Flower Power Grid is developed as a coherent system.
 
-This part is a foundational component for the Flower Power Grid system.
+New parts are continuously designed, tested and refined before being released.  
+Because all components interact with each other, compatibility and reliability are essential. Nothing is published unless it works cleanly within the system and meets the intended level of functionality.
+
+There is no fixed release schedule and no promises of future parts.  
+Development is driven by testing, iteration and real-world use. Released components are the result of this process.
 
 ---
 
